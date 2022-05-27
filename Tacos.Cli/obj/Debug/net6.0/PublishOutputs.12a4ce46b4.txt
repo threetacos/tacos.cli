@@ -1,0 +1,5 @@
+C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.exe
+C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.dll
+C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.deps.json
+C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.runtimeconfig.json
+C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.pdb

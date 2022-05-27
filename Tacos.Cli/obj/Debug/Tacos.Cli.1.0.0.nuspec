@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Tacos.Cli</id>
+    <version>1.0.0</version>
+    <authors>Tacos.Cli</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.dll" target="tools\net6.0\any\Tacos.Cli.dll" />
+    <file src="C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.deps.json" target="tools\net6.0\any\Tacos.Cli.deps.json" />
+    <file src="C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.runtimeconfig.json" target="tools\net6.0\any\Tacos.Cli.runtimeconfig.json" />
+    <file src="C:\Users\nairb\source\repos\Tacos.Cli\Tacos.Cli\bin\Debug\net6.0\publish\Tacos.Cli.pdb" target="tools\net6.0\any\Tacos.Cli.pdb" />
+  </files>
+</package>
